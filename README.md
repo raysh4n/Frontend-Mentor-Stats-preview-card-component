@@ -45,8 +45,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [here](https://your-solution-url.com)
-- Live Site URL: [here](https://your-live-site-url.com)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/responsive-stats-preview-card-component-solution-h7f7JEglPW)
+- Live Site URL: [here](https://fem-stats-preview-card-raysh3n.netlify.app/)
 
 ## My process
 
